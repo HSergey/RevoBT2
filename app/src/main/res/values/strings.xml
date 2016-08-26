@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RevoBT v0.3.01</string>
+    <string name="text_splash_loading">Загрузка словаря...</string>
+    <string name="text_splash_loaded">Словарь успешно загружен</string>
+    <string name="text_splash_loading_complite">Загрузка завершена</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="start_find_device">Поиск BLE устройств...</string>
+
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+</resources>
